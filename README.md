@@ -12,7 +12,7 @@ This repository demonstrates [ML.NET](https://www.microsoft.com/net/learn/apps/m
 
 2) Create a *Data* inside the first MoveReviewSentiment folder and put the CSV file inside it.
 
-3) Change the name of the CSV file to: *imdbdataset.csv* (or change the code so that it works with the original file name). You repository should look like this:
+3) Change the name of the CSV file to: *imdbdataset.csv* (or change the code so that it works with the original file name). At this point, your repository should look like this:
 
 ```
 MovieReviewSentiment
