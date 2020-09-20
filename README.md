@@ -2,9 +2,9 @@
 
 This repository demonstrates [ML.NET](https://www.microsoft.com/net/learn/apps/machine-learning-and-ai/ml-dotnet) being applied to a **binary classification** problem: predicting the sentiment (positive or negative) of movie reviews.
 
-| ML.NET version | API type          | Status                        | App Type    | Data type | Scenario            | ML Task                   | Algorithms                  |
-|----------------|-------------------|-------------------------------|-------------|-----------|---------------------|---------------------------|-----------------------------|
-| v1.5.2         | Dynamic API       | up-to-date                    | Console app | CSV       | Sentiment Analysis  | Two-class  classification | Stochastic dual coordinate ascent |
+| ML.NET version | API type          | App Type    | Data type | Scenario            | ML Task                   | Algorithm                  |
+|----------------|-------------------|-------------|-----------|---------------------|---------------------------|-----------------------------|
+| v1.5.2         | Dynamic API       | Console app | CSV       | Sentiment Analysis  | Two-class  classification | Stochastic dual coordinate ascent |
 
 ## To Get Started
 
@@ -12,7 +12,7 @@ This repository demonstrates [ML.NET](https://www.microsoft.com/net/learn/apps/m
 
 2) Create a *Data* inside the first MoveReviewSentiment folder and put the CSV file inside it.
 
-3) Change the name of the CSV file to: *imdbdataset.csv* (or change the code so that it works with the original file name). At this point, your repository should look like this:
+3) Change the name of the CSV file to: *imdbdataset.csv* (or change the code so that it works with the original file name). At this point, your repository should look something like this:
 
 ```
 MovieReviewSentiment
@@ -25,7 +25,7 @@ MovieReviewSentiment
       ...
 ```
 
-4) Open up the solution and run the project!
+4) Open up the solution and run the project! When the program has finished running, you should see something like this:
 
 
 
