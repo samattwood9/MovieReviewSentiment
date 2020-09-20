@@ -27,5 +27,4 @@ MovieReviewSentiment
 
 4) Open up the solution and run the project! When the program has finished running, you should see something like this:
 
-
-
+![Image of output](output.png)
