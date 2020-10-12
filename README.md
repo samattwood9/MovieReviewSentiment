@@ -30,3 +30,7 @@ MovieReviewSentiment
 5) Open up the solution and run the project! When the program has finished running, you should see something like this:
 
 ![Image of output](output.png)
+
+## Additional Information
+
+Another version of this work, in the form of a Jupyter notebook instead of a console application, can be found here: https://github.com/samattwood9/MovieReviewSentimentNotebook
